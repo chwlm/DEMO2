@@ -9,5 +9,5 @@ try {
     document.getElementById('day').innerText = dayOfTheWeek();
 } catch(err) {}
 
-
+// asfdsa
 exports.dayOfTheWeek = dayOfTheWeek;
